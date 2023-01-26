@@ -25,6 +25,6 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LuckyGardel&icon=5&color=0)](https://visitcount.itsvg.in)
+[![]([https://visitcount.itsvg.in/api?id=LuckyGardel&icon=5&color=0)](https://visitcount.itsvg.in](https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
