@@ -20,7 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.webp"/>
+<img src="https://i.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.webp"/>
 
 ---
 
