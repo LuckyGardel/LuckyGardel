@@ -19,18 +19,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif?cid=790b76118e6b53393f0223d1a2016184d2d82d22c149a1a7&rid=giphy.gif">
-
 ### 😂 Random Dev Meme
-<img src="https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif?cid=790b76118e6b53393f0223d1a2016184d2d82d22c149a1a7&rid=giphy.gif&ct=g"/>
-
+![]<img src="https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif?cid=790b76118e6b53393f0223d1a2016184d2d82d22c149a1a7&rid=giphy.gif&ct=g"/>
+![](https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif?cid=790b76118e6b53393f0223d1a2016184d2d82d22c149a1a7&rid=giphy.gif&ct=g)
 ---
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif?cid=790b76118e6b53393f0223d1a2016184d2d82d22c149a1a7&rid=giphy.gif&ct=g">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif?cid=790b76118e6b53393f0223d1a2016184d2d82d22c149a1a7&rid=giphy.gif&ct=g">
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif?cid=790b76118e6b53393f0223d1a2016184d2d82d22c149a1a7&rid=giphy.gif">
-
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif">
