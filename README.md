@@ -20,11 +20,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="[https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe](https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe)"/>
+<img src="https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.webp"/>
 
 ---
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe](https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe)">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.webp">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="[https://tutorialspoint.com/images/html.gif](https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe)">
+
