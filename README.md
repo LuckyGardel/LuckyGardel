@@ -25,6 +25,6 @@
 <img src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="512px"/>
 
 ---
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP")
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
