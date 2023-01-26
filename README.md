@@ -22,9 +22,9 @@
 
 
 ### 😂 Random Dev Meme
-<img src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="512px"/>
+<img src="https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif?cid=790b76118e6b53393f0223d1a2016184d2d82d22c149a1a7&rid=giphy.gif&ct=g"/>
 
 ---
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP](https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif?cid=790b76118e6b53393f0223d1a2016184d2d82d22c149a1a7&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif?cid=790b76118e6b53393f0223d1a2016184d2d82d22c149a1a7&rid=giphy.gif&ct=g">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
