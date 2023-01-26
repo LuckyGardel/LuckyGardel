@@ -1,6 +1,6 @@
 # 💫 Hello There! 
-<br>  Christian.G!<br> 📍Madrid 🇪🇸<br>  .The World 🌎 is Up for Grabs 🚀.
-🌱 I’m currently learning
+<br>  Christian.G!<br> 📍Madrid 🇪🇸<br>  .The World 🌎 is Up for Grabs 🚀. <br> 🌱 I’m currently learning
+
 
 
 ## 🌐 Socials:
@@ -18,8 +18,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-“It is a capital mistake to theorize before one has data.”
-~ Sherlock Holmes
+
+
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
