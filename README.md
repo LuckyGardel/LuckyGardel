@@ -1,5 +1,5 @@
 # 💫 print('Hello There!')
-<br>  Christian.G! 🌱 I’m currently learning <br> Data-Driven Business Analyst | Python, Machine Learning, Web Scraping, MySQL, Tableau, MS Power BI and Excel | .<br>  .The World 🌎 is Up for Grabs 🚀. <br> 📍Madrid 🇪🇸
+<br>  Christian.G! 🌱 I’m currently learning <br><br> Data-Driven Business Analyst | Python, Machine Learning, Web Scraping, MySQL, Tableau, MS Power BI and Excel | .<br><br>  .The World 🌎 is Up for Grabs 🚀. <br><br> 📍Madrid 🇪🇸
 
 
 
