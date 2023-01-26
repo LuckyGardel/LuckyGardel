@@ -1,4 +1,4 @@
-# 💫 Hello There! 
+# 💫 print('Hello There!')
 <br>  Christian.G!<br> 📍Madrid 🇪🇸<br>  .The World 🌎 is Up for Grabs 🚀. <br> 🌱 I’m currently learning
 
 
@@ -16,10 +16,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LuckyGardel&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Random Meme
 <img src="https://i.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.webp"/>
 
 ---
