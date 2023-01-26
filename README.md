@@ -22,7 +22,7 @@
 
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="512px"/>
 
 ---
 
