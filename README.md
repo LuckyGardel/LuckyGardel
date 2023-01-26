@@ -23,7 +23,7 @@
 <img src="https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.webp"/>
 
 ---
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.webp">
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
