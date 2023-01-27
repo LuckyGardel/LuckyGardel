@@ -1,5 +1,5 @@
 # 💫 print('Hello There!')
-<br>  Christian.G! 🌱 I’m currently, and will always be learning . <br><br> Data-Driven Business Analyst | Python, Machine Learning, Web Scraping, MySQL, Tableau, MS Power BI and Excel | .<br><br>  .The World 🌎 is Up for Grabs 🚀. <br><br> 📍Madrid 🇪🇸 .
+<br>  Christian.G! = ["LuckyGardel"] 🌱 I’m currently, and will always be learning . <br><br> Data-Driven Business Analyst | Python, Machine Learning, Web Scraping, MySQL, Tableau, MS Power BI and Excel | .<br><br>  .The World 🌎 is Up for Grabs 🚀. <br><br> 📍Madrid 🇪🇸 .
 
 <div align="center">
   <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/08f5e941361ca36d10d7de55d8041992abe9ac24/resources/img/grid-snake.svg"
