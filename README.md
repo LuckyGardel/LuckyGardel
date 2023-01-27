@@ -29,9 +29,9 @@
   <summary>🧮 about</summary>
 <div>
 <samp>
-<h2 align="center">About this Account</h2>
- <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+<h2 align="left">About this Account</h2>
+ <p align="left">
+  <a href="github.com/LuckyGardel" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   <a href="https://1999azzar.github.io/1999AZZAR/"><img align="center" 
