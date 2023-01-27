@@ -20,6 +20,9 @@
          alt="azzar" height="30"/></a>
     </p>
       <br>
+      <a href="https://github.com/LuckyGardel" target="blank"><img align="left" 
+     src="https://komarev.com/ghpvc/?username=LuckyGardel&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     alt="views count" /></a><br>
     </p>
   </samp>
 </div>
