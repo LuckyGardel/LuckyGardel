@@ -31,7 +31,7 @@
 <samp>
 <h2 align="left">About this Account</h2>
  <p align="left">
-  <a href="github.com/LuckyGardel" target="blank"><img align="center" 
+  <a href="https://github.com/LuckyGardel" target="blank"><img align="center" 
      src="https://github.com/LuckyGardel&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   </p>
