@@ -34,9 +34,9 @@
   <a href="https://github.com/LuckyGardel" target="blank"><img align="left" 
      src="https://komarev.com/ghpvc/?username=LuckyGardel&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
-  </p>
- </p>
- </samp>
+</p>
+</p>
+</samp>
 </div>
 </details>
   
