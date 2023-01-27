@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://media.licdn.com/dms/image/D4D16AQGJtiCPf8_fwQ/profile-displaybackgroundimage-shrink_350_1400/0/1665005512494?e=1680134400&v=beta&t=6tzkUr80dPxPZ4fAnZq4-RRa8JfBmAF29BLcy7HhyN8"/><br><br>
+<div align="left">  
 # 💫 print('Hello There!')
 <br>  Christian.G! = ["LuckyGardel"] 🌱 I’m currently, and will always be learning . <br><br> Data-Driven Business Analyst | Python, Machine Learning, Web Scraping, MySQL, Tableau, MS Power BI and Excel | .<br><br>  .The World 🌎 is Up for Grabs 🚀. <br><br> 📍Madrid 🇪🇸 .
 
