@@ -42,7 +42,7 @@
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/LuckyGardel/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="LuckyGardel :: overall Top Langs " /></a>
       </p>
         <p align="center">
