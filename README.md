@@ -58,7 +58,7 @@
   <summary><h3>Statistics</h3></summary>
         <p align="center">
           <a href="https://github.com/LuckyGardel/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LuckyGardel&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuckyGardel&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuckyGardel&theme=gruvbox&hide_border=true" />
           </a>
        </p>
