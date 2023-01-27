@@ -3,12 +3,12 @@
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+       alt="snake" /></a><br>
 </div>
-  <a href="https://github.com/LuckyGardel" target="blank"><img align="left" 
+  <a href="https://github.com/LuckyGardel" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=LuckyGardel&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a><br>
------
+
 <details>
   <summary>☎️ Contact me</summary>
 <div>
