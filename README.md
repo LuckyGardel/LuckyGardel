@@ -2,11 +2,6 @@
 <br>  Christian.G! 🌱 I’m currently learning <br><br> Data-Driven Business Analyst | Python, Machine Learning, Web Scraping, MySQL, Tableau, MS Power BI and Excel | .<br><br>  .The World 🌎 is Up for Grabs 🚀. <br><br> 📍Madrid 🇪🇸
 
 <div align="center">
-<h1 align="center">💫 print('Hello There!') <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Christian.G!</h1>
-<h4 align="center">Data-Driven Business Analyst | Python, Machine Learning, Web Scraping, MySQL, Tableau, MS Power BI and Excel | . <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank"></h4>
-</div>
-
-<div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
