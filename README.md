@@ -73,21 +73,8 @@
      <br>
      </samp>
   </div>    
-</details>
-
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-  <br/>
-  <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=LuckyGardel&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-<br/>
-  </samp>
-  </details>
-  
+</details>  
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 😂
 <img src="https://i.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.webp"/>
