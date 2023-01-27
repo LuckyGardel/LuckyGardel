@@ -12,8 +12,8 @@
   <summary>☎️ contact me</summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
-    <p align="center">
+    <h2 align="left">you can reach me by:</h2>
+    <p align="left">
       <br/>
       <a href="https://www.linkedin.com/in/christiangardel/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
