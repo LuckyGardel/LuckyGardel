@@ -9,10 +9,10 @@
 
 -----
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contact me</summary>
 <div>
   <samp>
-    <h2 align="left">you can reach me by:</h2>
+    <h2 align="left">You can reach me by:</h2>
     <p align="left">
       <br/>
       <a href="https://www.linkedin.com/in/christiangardel/" target="blank"><img align="center"
@@ -31,8 +31,8 @@
 <samp>
 <h2 align="left">About this Account</h2>
  <p align="left">
-  <a href="https://github.com/LuckyGardel" target="blank"><img align="center" 
-     src="https://github.com/LuckyGardel&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+  <a href="https://github.com/LuckyGardel" target="blank"><img align="left" 
+     src="https://komarev.com/ghpvc/?username=LuckyGardel&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   </p>
  </p>
