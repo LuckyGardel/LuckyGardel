@@ -74,7 +74,9 @@
      </samp>
   </div>    
 </details>  
+  
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
 ### 😂
 <img src="https://i.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.webp"/>
