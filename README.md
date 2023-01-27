@@ -26,7 +26,7 @@
 </details>
 
 <details>
-  <summary>🧮 about</summary>
+  <summary>🧮 About</summary>
 <div>
 <samp>
 <h2 align="left">About this Account</h2>
@@ -63,7 +63,7 @@
         </p>
 </details>
     <details open>
-  <summary><h3>stasistic</h3></summary>
+  <summary><h3>Stasistics</h3></summary>
         <p align="center">
           <a href="https://github.com/LuckyGardel/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LuckyGardel&show_icons=true&theme=gruvbox&hide_border=true" />
